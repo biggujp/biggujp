@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pornchai Chityuenyong (BIG)
 =============================================================================================================================================
 
-Front-Backend Developer and Leader Electrical Engineers
+My favourite are Front and Backend Developer 
+My Job is Team Leader Electrical Engineer for construction
 -------------------------------------------------------
 
 My favourite are frontend and backend developer who loves python!
 
-* 🌍  I'm based in Bangkok
+* 🌍  I'm based in Bangkok and Chonburi
 * ✉️  You can contact me at [pornchai.chy@gmail.com](mailto:pornchai.chy@gmail.com)
 * 🧠  I'm learning Golang and python advanced
 * 🤝  I'm open to collaborating on Projects
