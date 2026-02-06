@@ -40,6 +40,10 @@ I'm frontend and backend developer who loves python!
 
 </ul>
 
+## LINE OA + PDF OT Example
+
+ดูตัวอย่างโค้ดสำหรับสร้าง PDF ใบแจ้งขอทำ OT ภาษาไทย+ญี่ปุ่น ผ่าน LINE OA ได้ที่ไฟล์ `OT_LINE_OA_GUIDE.md`
+
 <!--
 **biggujp/biggujp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
