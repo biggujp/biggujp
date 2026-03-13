@@ -1,12 +1,12 @@
 Hi 👋 My name is Pornchai Chityuenyong (Big)
 =================================================================
 
-Full-Stack Developer | Python Developer | Electrical Engineering Team Leader
+Full-Stack Developer | Python Developer | Electrical Engineering
 ----------------------------------------------------------
 
 I am passionate about **Frontend and Backend development**, with a strong interest in building practical systems using **Python and modern web technologies**.
 
-Currently, I work as a **Team Leader Electrical Engineer in the construction industry**, where I manage technical teams and engineering projects. At the same time, I actively develop software projects, especially backend systems, automation tools, and IoT solutions.
+Currently, I work as a **Leader Electrical Engineer in the construction industry**, where I manage technical teams and engineering projects. At the same time, I actively develop software projects, especially backend systems, automation tools, and IoT solutions.
 
 * 🌍 Based in **Bangkok and Chonburi, Thailand**
 * ✉️ Contact: **pornchai.chy@gmail.com**
